@@ -1,0 +1,12 @@
+TestLoginData:
+  test_login_001:
+    count: "15000604524"
+    pwd: "19940325qq"
+  test_sms_002:
+    count: "15000604524"
+    pwd: "19940325qq"
+#  test_sms_003:
+#    send: "#!!"
+#    expect: "#!!"
+
+# [("123","123"),("hello","hello"),("#!!","#!!")]
